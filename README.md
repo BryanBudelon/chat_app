@@ -1,16 +1,18 @@
-# chat_app_new
+# Chat app
 
-A new Flutter project.
+This is a Chat application developed when studiyng Streams.
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+Below you can check some screenshots from this project.
 
-A few resources to get you started if this is your first Flutter project:
+Login Screen<br/>
+<img src="https://user-images.githubusercontent.com/5804314/223948305-994b1bc5-3343-428c-8cdd-270c52c8b081.png" width="300" height="600"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Chat/Messages screen<br/>
+<img src="https://user-images.githubusercontent.com/5804314/223948353-3f7a644f-a84e-4046-b671-532cc9c93142.png" width="300" height="600"/>
+
+Gif showing switch between Login and Register<br/>
+<img src="https://user-images.githubusercontent.com/5804314/223949637-5d1b553e-4549-4419-946c-a6cd26a5f797.gif" width="300" height="600"/>
+
